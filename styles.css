@@ -1,0 +1,10 @@
+#título{text-align: center;}
+#subtítulo{text-align: left;}
+#mini-texto{text-align: left;}
+#descrição{text-align: left;}
+#linha{text-align: left;}
+#linha2{text-align: left;}
+#linha3{text-align: left;}
+h1, h2, p {font-family: Arial;}
+#cor {background-color: khaki;b}
+#título {margin: 50px; margin-top: 50px; marker-end: 50px;}
